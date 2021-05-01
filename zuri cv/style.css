@@ -1,0 +1,51 @@
+#header{
+    display: flex;
+    grid-template-columns: 1fr 0.3fr;
+    background-color: rgb(241, 241, 239);
+    color: rgb(10, 9, 9);
+    font: 1em sans-serif;
+}
+#name{
+    letter-spacing: 0.5em; 
+    font-weight: bold;
+    margin-top: 20px;
+    margin: 10px;
+}
+#title{
+    letter-spacing: 0.2em;
+    margin-top: 20px;
+    margin: 10px;
+}
+#About{
+    letter-spacing: 0.3em;
+    margin-top: 30px;
+    margin: 10px;
+}
+
+.container{
+    padding: 0px;
+    margin-top: 50px;
+    font: 1em sans-serif;
+}
+#wor{
+    background: rgb(245,245, 245);
+    margin: 10px;
+    padding: 10px;
+}
+#educa{
+    background: rgb(245,245, 245);
+    margin: 10px;
+    padding: 10px;
+}
+#skill{
+    background: rgb(245,245, 245);
+    margin: 10px;
+    padding: 10px;
+}
+#inter{
+    background: rgb(245,245, 245);
+    margin: 10px;
+    padding: 10px;
+}
+
+
